@@ -1,0 +1,118 @@
+hi，我的名字叫黄小明（不是课本上总是恶作剧的主角 ，也不是电视剧中的明星高富帅），英文名是Aben，主业是一个“咖啡因驱动型程序员”，副业是“砍价艺术家”。人生三大爱好：用徒步丈量世界，用做饭battle体重，用砍价拯救钱包。最新成就：在保护区用AI分析羚牛与树的前世今生。虽然我叫小明，但是我不抹课本的黑，不抢明星的戏～
+Hi, I'm Huang Xiaoming
+(Not the troublemaker from your textbooks, nor that dreamy CEO from TV dramas)
+
+Main gig: : A "caffeine-fueled programmer ☕️
+By night:  A "bargain-ninja"  🔪 (specialty: slashing prices)
+
+My life's holy trinity:
+🌍 Conquering continents on foot - my GPS is my best friend
+🍳 Cooking up storms (and occasionally losing to the scale)
+💸 Bargaining like my wallet's life depends on it - because it does
+
+Latest flex: Using AI to play matchmaker between grumpy takins and their favorite trees in the wild
+
+Disclaimer: While I share a name with "that guy", I promise:
+
+No textbook vandalism 📚✖️
+
+No stealing the spotlight from celebrities 🌟✖️
+
+为什么要报STA
+-跨区域实战经验：作为工作于REG IT ASP部门的一员，上海与香港是我们工作内容的重点支持对象，我渴望于积累在香港或上海工作的一手跨区域实战经验。在香港或上海这样的国际化和前沿市场工作，这将让我深入理解当地独特的工作环境、市场动态，文化背景，近距离观察市场趋势、客户需求和竞争格局，显著提升我的商业思维和战略眼光。这是常规工作或短期出差无法获得的宝贵经验。
+-拓宽职业视野与网络： 深入接触不同区域的业务、技术和同事，将极大地拓宽我的职业视野。与当地业务部门同事的“深入沟通与协作”能帮助我建立强大的跨区域人脉网络，有利于我在未来工作于REG IT ASP中承担更大职责或更广阔的角色打下基础。
+-关键经验积累：这将为我提供宝贵的机会去面对具有战略意义的挑战，能让我在实践中快速积累高价值的、多元化的关键经验。并且这是一个在全新的环境中磨练和展示我的的领导潜力、决策能力和跨文化管理能力的绝佳机会。
+-激发创新思维与提升影响力：新视角带来创新： 融入不同的工作环境和文化，接触不同的工作方法和思维模式，是激发创新思维的最佳催化剂。你能将原地区的经验与新地区的实践结合，提出创新的解决方案。
+-建立个人品牌与影响力：参与STA计划是我在更广范围内展示才华、建立个人声誉和影响力的平台，让更多关键业务伙伴认识并且认可我的一个宝贵机会。
+Why Apply for the STA Program?
+
+Cross-Regional Hands-On Experience: As a member of the REG IT ASP team, my work primarily focuses on supporting Shanghai and Hong Kong. I am eager to gain firsthand cross-regional experience by working in either Hong Kong or Shanghai. Working in such international and cutting-edge markets will allow me to deeply understand the local work environment, market dynamics, and cultural context, while closely observing market trends, customer needs, and competitive landscapes. This will significantly enhance my business acumen and strategic vision—an invaluable experience that cannot be gained through routine work or short-term business trips.
+Broadening Professional Perspectives & Network: Engaging deeply with different regional businesses, technologies, and colleagues will greatly expand my professional horizons. "In-depth communication and collaboration" with local business teams will help me build a strong cross-regional network, laying the foundation for taking on greater responsibilities or broader roles within REG IT ASP in the future.
+Key Experience Accumulation: This opportunity will allow me to tackle strategically significant challenges, enabling me to rapidly accumulate high-value, diverse, and critical experience in practice. Moreover, it is an excellent chance to hone and demonstrate my leadership potential, decision-making skills, and cross-cultural management abilities in a new environment.
+Stimulating Innovative Thinking & Expanding Influence:
+New Perspectives Drive Innovation: Immersing myself in different work environments and cultures while being exposed to varied working methods and mindsets serves as the best catalyst for innovative thinking. I can integrate insights from my original region with practices in the new region to propose creative solutions.
+Building a Personal Brand & Influence: Participating in the STA program is a platform for me to showcase my talents, establish my reputation, and expand my influence on a broader scale. It is a valuable opportunity to gain recognition from key business stakeholders.
+
+工作经历：
+（2021-2022）深化前端技术与跨区域协作：作为前端开发核心成员，成功交付澳大利亚团队主导的StarAlliance项目，主导完成了涵盖 Horas, Ralf, ccol, kyc, maps 等多个系统的 SA前端项目 开发与复杂问题调研。勇于承担复杂且具挑战性的任务，积极采纳团队成员意见，获得澳大利亚项目技术负责人积极评价。
+（2022-2023）增加移动端开发技能，拓展职责范围，展现领导力与效率：主导并成功交付关键业务 - Fixinstallemnt 移动端项目，担任 Android 开发、iOS 开发、移动端整体审核协调员、移动端团队发展计划负责人，制定高效开发计划，带领团队快速完成业务目标，主持并实施项目演示，获得业务团队与技术负责人一致高度认可。与多个地区部门（新加坡，澳大利亚，墨西哥，香港，中国大陆，英国）建立沟通机制，组织并主持了一系列相关会议。我带领移动端团队精准识别并消除业务风险，提供专业、可靠的技术建议，积极对接全球技术团队获取资源与支持。在团队内部主导Android/iOS同步开发，确保前后端高效协作。在这过程中身兼多职（Android/iOS开发、协调、规划），显著降低项目人力成本，同时高质量完成任务。制定技术规范与标准，减少基础性错误，大幅节省项目时间成本。
+（2024-至今）后端拓展与综合技术影响力增强：在Abacus项目中担任后端开发者，设计并实施后端相关系统的方案，负责版本维护与日常环境发布。在后端开发中深化了实战经验及架构思维，加强了代码逻辑与系统设计能力，锻炼了独立制定开发方案与标准的能力。通过Abacus项目，在这个过程中了解到更加复杂与底层的业务场景，深入业务沟通能力，提升了技术方案与业务需求的契合度及沟通效能。
+(2021–2022) Deepening Front-End Expertise & Cross-Regional Collaboration
+As a core front-end developer, I successfully delivered the StarAlliance (SA) project led by the Australian team, taking ownership of front-end development and complex issue investigation across multiple systems, including Horas, Ralf, CCOL, KYC, and Maps. I proactively tackled challenging tasks, incorporated team feedback, and received positive recognition from the Australian project’s technical lead.
+
+(2022–2023) Expanding Mobile Development Skills & Leadership
+Led and delivered the critical Fixinstallemnt mobile project, serving as:
+Android & iOS Developer
+Mobile Team Coordinator & Reviewer
+Mobile Team Development Plan Lead
+Designed an efficient development plan, guiding the team to rapidly achieve business goals.
+Organized and conducted project demos, earning high praise from both business and technical leadership.
+Established cross-regional communication (Singapore, Australia, Mexico, Hong Kong, Mainland China, UK), initiating and leading key meetings.
+Mitigated business risks by providing expert technical guidance and securing global team support.
+Pioneered synchronized Android/iOS development, ensuring seamless frontend-backend collaboration.
+Multi-role execution (development, coordination, planning) significantly reduced labor costs while maintaining high-quality delivery.
+Standardized technical practices, minimizing errors and saving substantial project time.
+(2024–Present) Backend Expansion & Technical Influence
+As a backend developer for the Abacus project, I:
+Designed and implemented backend system solutions, managing version control and environment releases.
+Strengthened hands-on backend experience, architectural thinking, and system design skills.
+Developed independent solution-planning abilities, aligning technical approaches with business needs.
+Gained exposure to complex, low-level business scenarios, enhancing technical-business communication efficiency.
+
+为什么可以胜任
+我申请STA计划的核心信心源于：
+1）实战验证的跨区域协作能力（多个地区项目获负责人认可）；
+2）覆盖前端，移动端至后端的技术与领导力（主导多项目交付、制定标准、降本增效）；
+3）主动突破边界的学习基因（从UX设计到后端开发的跨界拓展）；
+4）深度参与的社区影响力（打造万次访问的H-vote平台、策划大型活动）。
+我渴望通过STA在香港/上海的实战机会，将上述能力应用于更复杂的亚太业务场景，同时深化文化理解与商业洞察，为HTC创造跨区域价值。
+My confidence in applying for the STA Program stems from:
+Proven Cross-Regional Collaboration
+Successfully delivered projects across Australia, Singapore, Mexico, Hong Kong, Mainland China, and the UK, earning recognition from regional leads.
+Full-Stack Technical Expertise & Leadership
+Led end-to-end project delivery (frontend, mobile, backend), established development standards, and optimized costs & efficiency.
+Demonstrated versatility in roles—from hands-on coding to team coordination and strategic planning.
+Continuous Boundary-Pushing Learning
+Expanded skills from UX design to backend development, showcasing adaptability and a growth mindset.
+Community Impact & Influence
+Built H-vote, a platform with 10,000+ visits, and organized large-scale events, proving my ability to drive engagement and innovation.
+I am eager to leverage these strengths in Hong Kong/Shanghai, applying them to complex APAC business challenges while deepening my cultural awareness and strategic insight—ultimately creating cross-regional value for HTC.
+其他信息
+参与公司内部创意平台开发，成功开发并运营H-vote（10K+内部访问），策划并且主持过3场大型年会（跨部门单次与会人数220+），在部门中承担多场Team Buiding 发起者，加入D&I成功支持了多场活动（2024年接力赛活动影响人数2K+），乐于参与志愿活动（例如2025年HTC公益基金会自然考察活动）。
+
+反馈：
+Aben兼具技术深度、领导潜质、文化适应力与创新思维。他在跨区域项目中的成功经验、多角色复杂交付的能力、以及持续突破舒适区的行动，完美匹配STA计划对“高潜力人才”的定义。我坚信他能在香港/上海的STA岗位上：
+1.快速融入当地业务，输出技术领导力；
+2.搭建跨区域协作桥梁，推动知识共享；
+3.将创新实践转化为商业价值。
+我全力推荐他参与STA2025计划，这既是对其个人潜力的投资，也将为HTC亚太业务带来直接收益。
+Aben possesses a rare combination of technical expertise, leadership potential, cultural adaptability, and innovative thinking. His proven success in cross-regional projects, ability to deliver complex multi-role initiatives, and consistent drive to push beyond his comfort zone make him the ideal candidate for the STA program’s "high-potential talent" profile.
+I am confident that in a STA role in Hong Kong/Shanghai, he will:
+Rapidly integrate into local operations and provide immediate technical leadership;
+Build bridges for cross-regional collaboration, fostering knowledge sharing and best practices;
+Translate innovative approaches into tangible business value for HTC.
+I strongly endorse Aben for the STA 2025 cohort. Investing in his growth is not just a recognition of his individual potential—it will deliver direct returns for HTC’s APAC business.
+
+目前我是一名全栈开发者，希望未来可以成为金融科技（FinTech）领域的优秀的云原生架构师与项目交付重要负责人，主导设计高并发、高安全的跨作为全栈开发者，我的目标是成为金融科技领域的云原生架构师与交付负责人，主导设计高并发、高安全性的跨境支付云架构。STA项目是我实现这一目标的关键契机——它不仅能同步提升我的技术深度与金融级交付能力，更能帮助我构建两大核心优势：
+1. 架构思维：从系统设计层面应对FinTech复杂业务场景；
+2. 交付思维：将技术方案转化为实际业务价值。
+与传统技术路径不同，STA能弥补我对复杂金融业务底层逻辑的认知缺口。通过参与跨团队协作，我将深入理解：
+* 技术决策如何适配多变的金融业务需求；
+* 项目管理在跨境支付场景中的关键作用；
+* 当地科技文化对系统交付的实际影响。
+最终，STA的权威背书将赋予我双重信心： 技术领导力：以架构师身份设计符合金融合规的云原生方案；  交付竞争力：以负责人角色推动项目在全球市场的落地。
+这不仅是能力跃迁的跳板，更是我向FinTech顶尖人才进阶的宣言。
+As a full-stack developer, my ambition is to become an accomplished cloud-native architect and delivery lead in FinTech, specializing in designing high-concurrency, high-security cross-border payment cloud architectures. The STA Program represents a pivotal opportunity to accelerate this transition—not only by deepening my technical expertise and financial-grade delivery capabilities but also by helping me build two critical competitive advantages:
+Architectural Mindset: Mastery in designing systems for complex FinTech scenarios;
+Delivery Excellence: Translating technical solutions into tangible business value.
+Unlike traditional career paths, the STA Program will address my current gap in understanding the underlying logic of complex financial operations. Through cross-functional collaboration, I will gain firsthand insights into:
+How technical decisions align with dynamic financial requirements;
+The pivotal role of project management in cross-border payment ecosystems;
+The real-world impact of regional tech cultures on system delivery.
+Ultimately, STA’s endorsement will empower me with dual confidence:
+Technical Leadership: Architecting compliant, cloud-native solutions for financial systems;
+Delivery Competence: Driving global project execution as a trusted lead.
+This is more than a career accelerator—it’s my declaration of intent to join the ranks of top-tier FinTech talent.
+
+Tianhe College, Guangdong Polytechnic Normal University
+RHCSA-RHCE
